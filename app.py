@@ -46,7 +46,7 @@ def predict():
 
     return jsonify({"prediction": round(prediction[0], 2)})
 
-# React route handling
+# React routes support
 @app.route("/<path:path>")
 def static_files(path):
     return send_from_directory(app.static_folder, path)
