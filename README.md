@@ -139,17 +139,9 @@ Deployment Steps:
 5. Successfully Deployed Flask + React Application
 
 ---
+<img width="1910" height="943" alt="Screenshot 2026-04-27 120856" src="https://github.com/user-attachments/assets/6dd6bbf6-56a8-478c-b362-d218d6a1fb29" />
 
-# 📷 Screenshots
 
-(Add screenshots here)
-
-Take screenshots of:
-
-* Home Page UI
-* Prediction Result
-
-Then add them here.
 
 ---
 
@@ -157,10 +149,19 @@ Then add them here.
 
 Input:
 
-CRIM = 0.00632
-ZN = 18
-INDUS = 2.31
-RM = 6.575
+CRIM: 0.00632
+ZN: 18.0
+INDUS: 2.31
+CHAS: 0
+NOX: 0.538
+RM: 6.575
+AGE: 65.2
+DIS: 4.09
+RAD: 1
+TAX: 296
+PTRATIO: 15.3
+B: 396.90
+LSTAT: 4.98 
 
 Output:
 
